@@ -1,5 +1,6 @@
 # mobilenetssd
 A web app for MobileNet SSD detection example hosted at https://mobilenetssd.herokuapp.com/
+Heroku Sayfamızdan projeyi test edebilirsiniz 
+Link: https://binstem.herokuapp.com/ 
 
-<img src="https://github.com/jideilori/jideilori.github.io/blob/master/img/mobilenetsddweb.png" width="780" height="550">
 
